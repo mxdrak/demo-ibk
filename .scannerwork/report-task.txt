@@ -1,0 +1,6 @@
+projectKey=Demo_ibk
+serverUrl=http://localhost:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/dashboard?id=Demo_ibk
+ceTaskId=AWgYU1FFmCO2u1hD8-_l
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWgYU1FFmCO2u1hD8-_l
